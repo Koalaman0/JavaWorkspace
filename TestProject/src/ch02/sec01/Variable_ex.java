@@ -12,7 +12,8 @@ public class Variable_ex {
 		value =10;
 		
 		//선언과 동시에 초기화
-		 
+		 int result =0;
+		 result = value + 10;
 		
 	}
 
